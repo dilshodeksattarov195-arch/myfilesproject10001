@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionuecrypt",
+        "uuid": 1264,
+        "checksum": "x7snxu"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
